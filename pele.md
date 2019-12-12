@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pêle-Mêle
-#permalink: /about/
+permalink: /pele/
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
@@ -16,3 +16,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+{% for post in site.categories.pele %}
+ <li> &nbsp; <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% endfor %}
