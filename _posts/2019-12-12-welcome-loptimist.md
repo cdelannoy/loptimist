@@ -5,7 +5,7 @@ date:   2019-12-12
 categories: van 
 ---
 
-In July 2018, I bought a van from a New Hampshire guy who had just come back from a year-long adventure climbing out West and in Mexico. He had already built out the interior, so all I had to do in addition to mechanical maintenance was revamp some of the existing structures and adding some features I wanted, like a sink. 
+In July 2019, I bought a van from a New Hampshire guy who had just come back from a year-long adventure climbing out West and in Mexico. He had already built out the interior, so all I had to do in addition to mechanical maintenance was revamp some of the existing structures and adding some features I wanted, like a sink. 
 
 Just like that, L'Optimist was (re)born!
 
