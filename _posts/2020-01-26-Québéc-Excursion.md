@@ -19,14 +19,14 @@ categories: van
  <tr><td>
      <figure>
       <div style="text-align:center">
-        <img src="/loptimist/assets/images/vanFranconia.jpg" alt="Franconia1" width="300" height="200"/>
+        <img src="/loptimist/assets/images/vanFranconia.JPG" alt="Franconia1" width="300" height="200"/>
       </div>
     </figure>
   </td>
   <td>
     <figure>
       <div style="text-align:center">
-        <img src="/loptimist/assets/images/vanFranconia2.jpg" alt="Franconia2" width="300" height="200"/>
+        <img src="/loptimist/assets/images/vanFranconia2.JPG" alt="Franconia2" width="300" height="200"/>
       </div>
     </figure>
     </td>
@@ -40,13 +40,13 @@ categories: van
     <td>
      <figure>
       <div style="text-align:center">
-        <img src="/loptimist/assets/images/quebec1.jpg" alt="OldTown" width="300" height="200"/>
+        <img src="/loptimist/assets/images/quebec1.JPG" alt="OldTown" width="300" height="200"/>
       </div>
     </figure>
   </td><td>
     <figure>
       <div style="text-align:center">
-        <img src="/loptimist/assets/images/quebec2.jpg" alt="StLaurent" width="300" height="200"/>
+        <img src="/loptimist/assets/images/quebec2.JPG" alt="StLaurent" width="300" height="200"/>
       </div>
     </figure>
     </td>
@@ -63,7 +63,7 @@ categories: van
   </td><td>
     <figure>
       <div style="text-align:center">
-        <img src="/loptimist/assets/images/fatbike.jpg" alt="FatBike" width="300" height="200"/>
+        <img src="/loptimist/assets/images/fatbike.JPG" alt="FatBike" width="300" height="200"/>
       </div>
     </figure>
     </td>
@@ -80,7 +80,7 @@ categories: van
   </td><td>
     <figure>
       <div style="text-align:center">
-        <img src="/loptimist/assets/images/gaspeblur.jpg" alt="GaspeBlur" width="200" height="300"/>
+        <img src="/loptimist/assets/images/gaspeblur.JPG" alt="GaspeBlur" width="200" height="300"/>
       </div>
     </figure>
     </td>
@@ -91,13 +91,13 @@ categories: van
     <td>
      <figure>
       <div style="text-align:center">
-        <img src="/loptimist/assets/images/chicchocski.jpg" alt="skiBuds" width="300" height="200"/>
+        <img src="/loptimist/assets/images/chicchocski.JPG" alt="skiBuds" width="300" height="200"/>
       </div>
     </figure>
   </td><td>
     <figure>
       <div style="text-align:center">
-        <img src="/loptimist/assets/images/sleddog2.jpg" alt="dog2" width="300" height="200"/>
+        <img src="/loptimist/assets/images/sleddog2.JPG" alt="dog2" width="300" height="200"/>
       </div>
     </figure>
     </td>
